@@ -1,0 +1,12 @@
+V_0 issues:
+
+wheel mount is making plastic bend
+wheel mount should be for m3 bolt, currently for m2
+one of the wheel mounts covers a hole to the connection point between the bottom and middle
+
+front roller connection is not correct size 
+front roller too high low, cart is leaning forward 
+roller does not roll smoothly
+
+18650 cell case does not fit on mount
+cell case 

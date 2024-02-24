@@ -1,0 +1,13 @@
+TO GET:
+
+- DC-DC BOOST STEP UP 2A 2-24V: 
+https://www.diyelectronics.co.za/store/switch-mode-modules/379-dc-dc-boost-step-up-2a-2-24v.html?search_query=MT3608&results=2
+
+- 5mm leds
+I should have
+
+- MPU-9250
+https://botshop.co.za/products/9-dof-mpu-9250-module-9-axis-1
+
+- N20 Motor Mount
+https://www.robotics.org.za/989
